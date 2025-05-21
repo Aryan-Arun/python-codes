@@ -1,0 +1,16 @@
+import turtle
+s=turtle.Screen()
+s.setup(600,600)
+s.bgcolor("black")
+
+t=turtle.Turtle()
+t.color("white")
+t.forward(50)
+t.left(90)
+t.forward(50)
+t.left(90)
+t.forward(50)
+t.left(90)
+t.forward(50)
+t.left(90)
+turtle.done()
